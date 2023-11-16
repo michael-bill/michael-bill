@@ -1,3 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michael-bill)](https://git.io/streak-stats)
+My name is Michael Beloshitsky.
+I am a student at ITMO University in St. Petersburg majoring in Software Engineering. At the same time, I’m trying to working as an Android developer, but I’m also interested in many other programming languages.
+
+In my github you can find several useful and sometimes funny repositories. Enjoy watching. Have a nice day!

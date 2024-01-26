@@ -8,7 +8,7 @@ At the same time, I’m working as an Java developer, but I’m also interested 
 In my github you can find several useful and sometimes funny repositories.<br/>
 Enjoy watching. Fewer bugs for you, may the fast Internet always be with you and have a nice day!<br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://t.me/imuafamilia" target="blank"><img align="center" src="https://osx.telegram.org/updates/site/logo.png" alt="biloshitskiy_m" height="40" width="40" /></a>
 <a href="https://discord.gg/hulumulumulus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hulumulumulus" height="40" width="40" /></a>

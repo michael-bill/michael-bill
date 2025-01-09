@@ -5,8 +5,6 @@
 I am a student at ITMO University in St. Petersburg majoring in Software Engineering. At the same time, I’m working as a Java developer, but I’m also interested in many other technologies.
 
 On my GitHub, you can find several useful and sometimes funny repositories.<br/>
-Enjoy watching. May you encounter fewer bugs, may the fast Internet always be with you, and have a nice day!<br/>
-
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">

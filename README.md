@@ -38,7 +38,7 @@
   <a href="https://discord.gg/hulumulumulus" target="_blank">
     <img src="./icons/discord.svg" alt="Discord" title="Discord" height="40" width="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCFY6qDdGThhKEFVVSpbJjFQ" target="_blank">
+  <a href="https://www.youtube.com/@hulumulumulus" target="_blank">
     <img src="./icons/youtube.svg" alt="YouTube" title="YouTube" height="40" width="40"/>
   </a>
 </p>

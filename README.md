@@ -42,7 +42,3 @@
     <img src="./icons/youtube.svg" alt="YouTube" title="YouTube" height="40" width="40"/>
   </a>
 </p>
-
----
-
-⭐ **Fun Fact:** My repos sometimes contain hidden easter eggs!  
